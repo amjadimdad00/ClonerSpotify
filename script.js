@@ -21,7 +21,7 @@ let songs = [
     coverPath: "covers/song2.webp",
   },
   {
-    songName: "Chor - Justh",
+    songName: "Premika Ne Pyar Se - Various Artist",
     filePath: "songs/3.mp3",
     coverPath: "covers/song3.webp",
   },
@@ -31,7 +31,7 @@ let songs = [
     coverPath: "covers/song4.webp",
   },
   {
-    songName: "Mann Bharya 2.0 - B Parak",
+    songName: "Teri Baaton Mein Aisa Uljha Jiya",
     filePath: "songs/5.mp3",
     coverPath: "covers/song5.webp",
   },
@@ -41,22 +41,22 @@ let songs = [
     coverPath: "covers/song6.webp",
   },
   {
-    songName: "Sawaar Loon - Amit Trivedi",
+    songName: "Aam Jahe Munde - Parmish Verma",
     filePath: "songs/7.mp3",
     coverPath: "covers/song7.webp",
   },
   {
-    songName: "Din Te Raat - Fukra Insaan",
+    songName: "Dil Besabar - Iqlipse Nova",
     filePath: "songs/8.mp3",
     coverPath: "covers/song8.webp",
   },
   {
-    songName: "Ek Mulaqat - Vishal Mishra",
+    songName: "Khwab - Iqlipse Nova",
     filePath: "songs/9.mp3",
     coverPath: "covers/song9.webp",
   },
   {
-    songName: "Tera Yaar Hoon Main - Arjit Singh",
+    songName: "Sadqay - Ashir Wajahat",
     filePath: "songs/10.mp3",
     coverPath: "covers/song10.webp",
   },
