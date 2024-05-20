@@ -11,42 +11,42 @@ let songItems = Array.from(document.getElementsByClassName("songItem"));
 
 let songs = [
   {
-    songName: "Tu Hai Kahan - AUR",
+    songName: "Aam Jahe Munde - Parmish Verma",
     filePath: "songs/1.mp3",
     coverPath: "covers/song1.webp",
   },
   {
-    songName: "Gulabi Sadi - Sanju Rathore",
+    songName: "Joota Japani - KR$NA",
     filePath: "songs/2.mp3",
     coverPath: "covers/song2.webp",
   },
   {
-    songName: "Premika Ne Pyar Se - Various Artist",
+    songName: "Jet Private Mein - Asghar Khoso",
     filePath: "songs/3.mp3",
-    coverPath: "covers/song3.webp",
+    coverPath: "covers/song3.jpg",
   },
   {
-    songName: "Ek Duje Ke Vaaste 2 - Jubin Nautiyal",
+    songName: "Dard Hota Hai - Darshan Raval",
     filePath: "songs/4.mp3",
     coverPath: "covers/song4.webp",
   },
   {
-    songName: "Teri Baaton Mein Aisa Uljha Jiya",
+    songName: "Ek Duje Ke Vaaste - Jaubin Nautiyal",
     filePath: "songs/5.mp3",
     coverPath: "covers/song5.webp",
   },
   {
-    songName: "Joota Japani - KR$NA",
+    songName: "Koi Si - Afasa Khan",
     filePath: "songs/6.mp3",
     coverPath: "covers/song6.webp",
   },
   {
-    songName: "Aam Jahe Munde - Parmish Verma",
+    songName: "Likhe Jo Khat Tujhe - Sanam",
     filePath: "songs/7.mp3",
     coverPath: "covers/song7.webp",
   },
   {
-    songName: "Dil Besabar - Iqlipse Nova",
+    songName: "Ve Haaniyan - Jaubin Nautiyal",
     filePath: "songs/8.mp3",
     coverPath: "covers/song8.webp",
   },
