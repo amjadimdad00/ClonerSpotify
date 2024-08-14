@@ -1,4 +1,4 @@
-# Spotify Music Player Clone:
+# ClonerSpotify
 A responsive music player inspired by Spotify. Provides a streamlined interface for streaming your favorite tracks, ensuring a smooth experience across various devices.
 
 Features
