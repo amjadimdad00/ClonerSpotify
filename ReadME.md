@@ -4,3 +4,7 @@ A responsive music player inspired by Spotify. Provides a streamlined interface 
 Features
 Play Music: Stream and play tracks easily.
 Responsive Design: Optimized for different screen sizes and devices.
+
+## Interface
+
+![ClonerSpotify](/ClonerSpotify.png)
